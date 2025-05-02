@@ -1,3 +1,2 @@
-tkinterdnd2
 PyPDF2
 reportlab
